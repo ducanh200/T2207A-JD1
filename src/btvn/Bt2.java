@@ -1,4 +1,4 @@
-package btvn1;
+package btvn;
 
 import java.util.Scanner;
 
