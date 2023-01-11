@@ -1,4 +1,4 @@
-package hoadontiendien;
+package Hoadontiendien;
 
 public class HoaDonTienDien {
     private String makh;
